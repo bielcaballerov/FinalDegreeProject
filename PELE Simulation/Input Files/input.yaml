@@ -1,0 +1,25 @@
+##Local Exploration
+system: 'system.pdb'
+chain: 'Z'
+resname: 'LIG'
+seed: 12345
+cpus: 16
+rescoring: true
+
+##Number of steps and iterations
+iterations: 10
+steps: 15
+
+##Parameters of simulation
+debug: true
+#restart: true
+
+##RMSD
+rmsd_pdb: 'system.pdb'
+
+##Ligand Parameters
+ca_constr: 5.0
+
+##Other Parameters
+anm_freq: 0
+sidechain_freq: 1
