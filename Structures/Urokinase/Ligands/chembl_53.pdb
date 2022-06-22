@@ -1,0 +1,92 @@
+HEADER    HYDROLASE/HYDROLASE INHIBITOR           28-JUN-12   4FU9
+TITLE     CRYSTAL STRUCTURE OF THE UROKINASE
+EXPDTA    X-RAY DIFFRACTION
+REMARK   2 RESOLUTION.    1.60 ANGSTROMS
+REMARK   3  R VALUE : 0.150000
+REMARK   3  FREE R VALUE : 0.182000
+REMARK   4 4FU9 COMPLIES WITH FORMAT V. 3.30,
+REMARK 200  TEMPERATURE           (KELVIN) : 160.00
+REMARK 200  PH                             : 4.80
+REMARK 350 BIOMOLECULE: 1
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A
+REMARK 350   BIOMT1  1   1.000000 0.000000 0.000000   0.000000
+REMARK 350   BIOMT2  1   0.000000 1.000000 0.000000   0.000000
+REMARK 350   BIOMT3  1   0.000000 0.000000 1.000000   0.000000
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+CRYST1   55.100   52.400   80.250  90.00  90.00  90.00 P 21 21 21    4
+HETATM    1  N1  LIG Z 900      -8.789 -20.860   6.026  1.00  0.00           N  
+HETATM    2  C1  LIG Z 900      -8.671 -19.530   6.400  1.00  0.00           C  
+HETATM    3  C2  LIG Z 900      -9.763 -18.837   6.934  1.00  0.00           C  
+HETATM    4  C3  LIG Z 900      -9.581 -17.501   7.326  1.00  0.00           C  
+HETATM    5  C4  LIG Z 900      -8.308 -16.917   7.174  1.00  0.00           C  
+HETATM    6  C5  LIG Z 900      -8.092 -15.588   7.580  1.00  0.00           C  
+HETATM    7  C6  LIG Z 900      -6.821 -15.008   7.428  1.00  0.00           C  
+HETATM    8  C7  LIG Z 900      -5.772 -15.749   6.864  1.00  0.00           C  
+HETATM    9  C8  LIG Z 900      -5.979 -17.085   6.469  1.00  0.00           C  
+HETATM   10  N2  LIG Z 900      -4.893 -17.799   5.949  1.00  0.00           N  
+HETATM   11  C9  LIG Z 900      -3.572 -17.453   5.794  1.00  0.00           C  
+HETATM   12  N3  LIG Z 900      -3.259 -16.185   6.067  1.00  0.00           N  
+HETATM   13  C10 LIG Z 900      -1.968 -15.834   5.902  1.00  0.00           C  
+HETATM   14  C11 LIG Z 900      -0.987 -16.755   5.502  1.00  0.00           C  
+HETATM   15  C12 LIG Z 900      -1.438 -18.062   5.254  1.00  0.00           C  
+HETATM   16  N4  LIG Z 900      -2.734 -18.403   5.379  1.00  0.00           N  
+HETATM   17  C13 LIG Z 900      -7.253 -17.691   6.620  1.00  0.00           C  
+HETATM   18  N5  LIG Z 900      -7.457 -18.974   6.255  1.00  0.00           N  
+HETATM   19  H1  LIG Z 900      -9.678 -21.332   6.112  1.00  0.00           H  
+HETATM   20  H2  LIG Z 900      -7.987 -21.357   5.669  1.00  0.00           H  
+HETATM   21  H3  LIG Z 900      -5.024 -18.740   5.608  1.00  0.00           H  
+HETATM   22  H4  LIG Z 900     -10.718 -19.330   7.037  1.00  0.00           H  
+HETATM   23  H5  LIG Z 900     -10.408 -16.940   7.735  1.00  0.00           H  
+HETATM   24  H6  LIG Z 900      -8.902 -15.016   8.007  1.00  0.00           H  
+HETATM   25  H7  LIG Z 900      -6.651 -13.989   7.746  1.00  0.00           H  
+HETATM   26  H8  LIG Z 900      -4.801 -15.295   6.731  1.00  0.00           H  
+HETATM   27  H9  LIG Z 900      -1.659 -14.814   6.079  1.00  0.00           H  
+HETATM   28  H10 LIG Z 900       0.041 -16.440   5.402  1.00  0.00           H  
+HETATM   29  H11 LIG Z 900      -0.738 -18.827   4.953  1.00  0.00           H  
+CONECT    1    2   19   20
+CONECT    2    1   18    3
+CONECT    2   18
+CONECT    3    2    4   22
+CONECT    3    4
+CONECT    4    3    5   23
+CONECT    4    3
+CONECT    5    4   17    6
+CONECT    5   17
+CONECT    6    5    7   24
+CONECT    6    7
+CONECT    7    6    8   25
+CONECT    7    6
+CONECT    8    7    9   26
+CONECT    8    9
+CONECT    9    8   10   17
+CONECT    9    8
+CONECT   10    9   11   21
+CONECT   11   10   16   12
+CONECT   11   16
+CONECT   12   11   13
+CONECT   12   13
+CONECT   13   12   14   27
+CONECT   13   12
+CONECT   14   13   15   28
+CONECT   14   15
+CONECT   15   14   16   29
+CONECT   15   14
+CONECT   16   11   15
+CONECT   16   11
+CONECT   17    5    9   18
+CONECT   17    5
+CONECT   18    2   17
+CONECT   18    2
+CONECT   19    1
+CONECT   20    1
+CONECT   21   10
+CONECT   22    3
+CONECT   23    4
+CONECT   24    6
+CONECT   25    7
+CONECT   26    8
+CONECT   27   13
+CONECT   28   14
+CONECT   29   15
+END   

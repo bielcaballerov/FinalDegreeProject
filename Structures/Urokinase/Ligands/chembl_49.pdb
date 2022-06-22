@@ -1,0 +1,124 @@
+HEADER    HYDROLASE/HYDROLASE INHIBITOR           28-JUN-12   4FU9
+TITLE     CRYSTAL STRUCTURE OF THE UROKINASE
+EXPDTA    X-RAY DIFFRACTION
+REMARK   2 RESOLUTION.    1.60 ANGSTROMS
+REMARK   3  R VALUE : 0.150000
+REMARK   3  FREE R VALUE : 0.182000
+REMARK   4 4FU9 COMPLIES WITH FORMAT V. 3.30,
+REMARK 200  TEMPERATURE           (KELVIN) : 160.00
+REMARK 200  PH                             : 4.80
+REMARK 350 BIOMOLECULE: 1
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A
+REMARK 350   BIOMT1  1   1.000000 0.000000 0.000000   0.000000
+REMARK 350   BIOMT2  1   0.000000 1.000000 0.000000   0.000000
+REMARK 350   BIOMT3  1   0.000000 0.000000 1.000000   0.000000
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+CRYST1   55.100   52.400   80.250  90.00  90.00  90.00 P 21 21 21    4
+HETATM    1  N1  LIG Z 900     -10.840 -19.359   7.391  1.00  0.00           N1+
+HETATM    2  C1  LIG Z 900      -9.540 -19.441   7.109  1.00  0.00           C  
+HETATM    3  N2  LIG Z 900      -9.166 -20.519   6.439  1.00  0.00           N  
+HETATM    4  C2  LIG Z 900      -8.535 -18.477   7.554  1.00  0.00           C  
+HETATM    5  C3  LIG Z 900      -8.872 -17.534   8.553  1.00  0.00           C  
+HETATM    6  C4  LIG Z 900      -7.934 -16.576   8.970  1.00  0.00           C  
+HETATM    7  C5  LIG Z 900      -6.646 -16.559   8.407  1.00  0.00           C  
+HETATM    8  C6  LIG Z 900      -5.690 -15.639   8.875  1.00  0.00           C  
+HETATM    9  C7  LIG Z 900      -4.397 -15.620   8.320  1.00  0.00           C  
+HETATM   10  C8  LIG Z 900      -3.409 -14.703   8.858  1.00  0.00           C  
+HETATM   11  C9  LIG Z 900      -2.526 -14.009   9.337  1.00  0.00           C  
+HETATM   12  C10 LIG Z 900      -1.414 -13.262   9.898  1.00  0.00           C  
+HETATM   13  C11 LIG Z 900      -1.040 -12.015   9.356  1.00  0.00           C  
+HETATM   14  C12 LIG Z 900       0.041 -11.301   9.910  1.00  0.00           C  
+HETATM   15  C13 LIG Z 900       0.753 -11.831  11.007  1.00  0.00           C  
+HETATM   16  C14 LIG Z 900       1.938 -11.087  11.582  1.00  0.00           C  
+HETATM   17  N3  LIG Z 900       3.098 -11.155  10.684  1.00  0.00           N1+
+HETATM   18  C15 LIG Z 900       0.371 -13.074  11.554  1.00  0.00           C  
+HETATM   19  C16 LIG Z 900      -0.712 -13.786  11.003  1.00  0.00           C  
+HETATM   20  C17 LIG Z 900      -4.064 -16.514   7.280  1.00  0.00           C  
+HETATM   21  C18 LIG Z 900      -5.018 -17.442   6.812  1.00  0.00           C  
+HETATM   22  C19 LIG Z 900      -6.308 -17.479   7.385  1.00  0.00           C  
+HETATM   23  C20 LIG Z 900      -7.257 -18.429   6.956  1.00  0.00           C  
+HETATM   24  H1  LIG Z 900     -11.197 -18.564   7.900  1.00  0.00           H  
+HETATM   25  H2  LIG Z 900     -11.468 -20.094   7.095  1.00  0.00           H  
+HETATM   26  H3  LIG Z 900      -8.196 -20.648   6.190  1.00  0.00           H  
+HETATM   27  H4  LIG Z 900      -9.852 -21.213   6.176  1.00  0.00           H  
+HETATM   28  H5  LIG Z 900       2.879 -10.691   9.814  1.00  0.00           H  
+HETATM   29  H6  LIG Z 900       3.888 -10.699  11.118  1.00  0.00           H  
+HETATM   30  H7  LIG Z 900       3.327 -12.122  10.501  1.00  0.00           H  
+HETATM   31  H8  LIG Z 900      -9.856 -17.548   8.998  1.00  0.00           H  
+HETATM   32  H9  LIG Z 900      -8.202 -15.852   9.725  1.00  0.00           H  
+HETATM   33  H10 LIG Z 900      -5.948 -14.945   9.661  1.00  0.00           H  
+HETATM   34  H11 LIG Z 900      -1.582 -11.607   8.516  1.00  0.00           H  
+HETATM   35  H12 LIG Z 900       0.326 -10.345   9.495  1.00  0.00           H  
+HETATM   36  H13 LIG Z 900       2.201 -11.516  12.548  1.00  0.00           H  
+HETATM   37  H14 LIG Z 900       1.666 -10.044  11.745  1.00  0.00           H  
+HETATM   38  H15 LIG Z 900       0.909 -13.481  12.397  1.00  0.00           H  
+HETATM   39  H16 LIG Z 900      -1.003 -14.735  11.427  1.00  0.00           H  
+HETATM   40  H17 LIG Z 900      -3.078 -16.488   6.841  1.00  0.00           H  
+HETATM   41  H18 LIG Z 900      -4.762 -18.124   6.016  1.00  0.00           H  
+HETATM   42  H19 LIG Z 900      -7.004 -19.123   6.168  1.00  0.00           H  
+CONECT    1    2   24   25
+CONECT    1    2
+CONECT    2    1    3    4
+CONECT    2    1
+CONECT    3    2   26   27
+CONECT    4    2   23    5
+CONECT    4   23
+CONECT    5    4    6   31
+CONECT    5    6
+CONECT    6    5    7   32
+CONECT    6    5
+CONECT    7    6   22    8
+CONECT    7   22
+CONECT    8    7    9   33
+CONECT    8    9
+CONECT    9    8   10   20
+CONECT    9    8
+CONECT   10    9   11
+CONECT   10   11
+CONECT   10   11
+CONECT   11   10   12
+CONECT   11   10
+CONECT   11   10
+CONECT   12   11   19   13
+CONECT   12   19
+CONECT   13   12   14   34
+CONECT   13   14
+CONECT   14   13   15   35
+CONECT   14   13
+CONECT   15   14   16   18
+CONECT   15   18
+CONECT   16   15   17   36   37
+CONECT   17   16   28   29   30
+CONECT   18   15   19   38
+CONECT   18   15
+CONECT   19   12   18   39
+CONECT   19   12
+CONECT   20    9   21   40
+CONECT   20   21
+CONECT   21   20   22   41
+CONECT   21   20
+CONECT   22    7   21   23
+CONECT   22    7
+CONECT   23    4   22   42
+CONECT   23    4
+CONECT   24    1
+CONECT   25    1
+CONECT   26    3
+CONECT   27    3
+CONECT   28   17
+CONECT   29   17
+CONECT   30   17
+CONECT   31    5
+CONECT   32    6
+CONECT   33    8
+CONECT   34   13
+CONECT   35   14
+CONECT   36   16
+CONECT   37   16
+CONECT   38   18
+CONECT   39   19
+CONECT   40   20
+CONECT   41   21
+CONECT   42   23
+END   
